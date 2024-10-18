@@ -1,8 +1,6 @@
 @charset 'utf-8';
 @import "abstracts/__abstracts-dir";
 @import "layouts/__layouts-dir";
-
-
 // @import "components/_components-dir";
 * {
     box-sizing: border-box;
@@ -12,34 +10,42 @@
 
 a {
     color: #000;
-
     &:hover {
         color: #000;
         text-decoration: none;
     }
 }
 
-table{
+table {
     text-transform: capitalize;
 }
-span.red{
+
+span.red {
     color: red;
 }
-input.red,select.red ,.input.red{
-    border-color:red ;
+
+input.red,
+select.red,
+.input.red {
+    border-color: red;
 }
-ul{
+
+ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
-.select_drop{
+.select_drop {
     border: none;
     width: 100%;
     &:focus {
-        box-shadow: none;  
-        border: transparent;  
+        box-shadow: none;
+        border: transparent;
         background-color: transparent;
     }
+}
+
+.abbbbc {
+    margin: 90px;
 }

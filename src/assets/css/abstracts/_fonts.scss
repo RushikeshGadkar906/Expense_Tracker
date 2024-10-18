@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'open_sansbold';
+    src: url('../../font/webfontkit-20220203-004801/opensans-bold-webfont.woff2') format('woff2'), url('../../font/webfontkit-20220203-004801/opensans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../../font/webfontkit-20220203-004801/opensans-regular-webfont.woff2') format('woff2'), url('../../font/webfontkit-20220203-004801/opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sanssemibold';
+    src: url('../../font/webfontkit-20220203-004801/opensans-semibold-webfont.woff2') format('woff2'), url('../../font/webfontkit-20220203-004801/opensans-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$main_heading:'open_sansbold',
+sans-serif;
+$sub_heading:'open_sanssemibold',
+sans-serif;
+$simple_txt: 'open_sansregular',
+sans-serif;
+;

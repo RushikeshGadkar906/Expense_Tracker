@@ -1,0 +1,11 @@
+@mixin button($bg-color:transparent) {
+    border-radius: 20px;
+    padding: 5px 20px;
+    background-color: $bg-color;
+    border: 1px solid #b7b7b7;
+}
+
+@mixin input-box {
+    border-radius: 20px;
+    border: 1px solid #B7B7B7;
+}

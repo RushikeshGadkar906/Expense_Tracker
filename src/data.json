@@ -1,0 +1,112 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "food"
+    },
+    {
+      "id": "2d26",
+      "name": "Shopping"
+    },
+    {
+      "id": "de02",
+      "name": "Entertainments"
+    },
+    {
+      "id": "3b60",
+      "name": "Bills & Utilities"
+    },
+    {
+      "id": "df20",
+      "name": "Education"
+    },
+    {
+      "id": "a9d4",
+      "name": "Transport"
+    },
+    {
+      "id": "a552",
+      "name": "Health & Wellness"
+    }
+  ],
+  "expenseslist": [
+    {
+      "id": "c4d7",
+      "date": "2024-10-17",
+      "name": "Book",
+      "category": "Education",
+      "amount": "192"
+    },
+    {
+      "id": "f3f7",
+      "date": "2024-10-17",
+      "name": "Bike",
+      "category": "Transport",
+      "amount": "120000"
+    },
+    {
+      "id": "486f",
+      "date": "2024-10-17",
+      "name": "Movie Ticket",
+      "category": "Entertainments",
+      "amount": "560"
+    },
+    {
+      "id": "7aa2",
+      "date": "2024-10-17",
+      "name": "Bag",
+      "category": "Shopping",
+      "amount": "1200"
+    },
+    {
+      "id": "9e55",
+      "date": "2024-10-01",
+      "name": "Groceries ",
+      "category": "Shopping",
+      "amount": "5500"
+    },
+    {
+      "id": "c1dd",
+      "date": "2024-10-08",
+      "name": "Recharge",
+      "category": "Bills & Utilities",
+      "amount": "349"
+    },
+    {
+      "id": "09cd",
+      "date": "2024-10-16",
+      "name": "Recharge",
+      "category": "Bills & Utilities",
+      "amount": "51"
+    },
+    {
+      "id": "69ae",
+      "date": "2024-10-18",
+      "name": "Phone",
+      "category": "Shopping",
+      "amount": "55000"
+    },
+    {
+      "id": "443c",
+      "date": "2024-10-18",
+      "name": "Book",
+      "category": "Education",
+      "amount": "800"
+    },
+    {
+      "id": "b9d0",
+      "date": "2024-10-18",
+      "name": "Book",
+      "category": "Education",
+      "amount": "8"
+    },
+    {
+      "id": "b1ae",
+      "name": "hello",
+      "error": "amount",
+      "categorey": "Shopping",
+      "date": "2024-10-19",
+      "amount": "34"
+    }
+  ]
+}

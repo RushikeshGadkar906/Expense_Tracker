@@ -9,7 +9,7 @@ const ExpensesReducer = (state,action) =>{
       }
    
       case "get_categoriesList":
-      // console.log(action.payload);
+      console.log(action.payload);
       return {
         ...state,
         allCategory: action.payload                              
